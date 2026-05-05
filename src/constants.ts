@@ -9,7 +9,7 @@ export const IMAGE_BASE_URL = 'https://image.tmdb.org/t/p/w500';
 export const IMAGE_ORIGINAL_URL = 'https://image.tmdb.org/t/p/original';
 
 export const APP_DOWNLOAD_LINK = "https://www.appcreator24.com/app4020123-x0ey6g";
-export const WEB_LINK = "https://pikchar-baaz.vercel.app/";
+export const WEB_LINK = "https://pikcharbaaz.vercel.app/";
 
 export const GENRES = [
   { id: '28', name: 'Action', icon: 'zap' },
