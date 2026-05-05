@@ -11,6 +11,7 @@ import {
   RotateCcw
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
+import { Analytics } from '@vercel/analytics/react';
 import { 
   Movie, 
   MovieDetails, 
@@ -926,6 +927,7 @@ export default function App() {
         )}
       </AnimatePresence>
 
+      <Analytics />
     </div>
   );
 }
